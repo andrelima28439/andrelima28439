@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**andrelima28439/andrelima28439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Back-end com experiência em construção de APIs e integração de sistemas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Node.js
+- Python
+- Java (Spring Boot)
+- SQL (MySQL)
+- NoSQL (MongoDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Cloud
+- AWS
+- Azure
+- Google Cloud
+
+## 🔗 O que eu faço
+- Desenvolvimento de APIs REST
+- Integração entre sistemas
+- Manipulação e análise de dados
+- Arquitetura back-end e cloud
+
+## 📈 Atualmente
+Atuando como freelancer desenvolvendo soluções back-end e cloud.
