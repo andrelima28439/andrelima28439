@@ -1,13 +1,9 @@
-```md id="q7m2xp"
+```md id="c7w9mz"
 <h1 align="center">Olá 👋, eu sou o André Lima</h1>
 
 <h3 align="center">
 Desenvolvedor Back-end & Cloud Engineer • APIs • Microsserviços • Arquitetura Distribuída
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabebuenu&label=Profile%20views&color=0e75b6&style=flat-square" alt="gabebuenu" />
-</p>
 
 ---
 
@@ -19,7 +15,7 @@ Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **Unimar**.
 
-📫 Contato: **ugabrieubuenu@gmail.com**
+📫 Contato: **seuemail@email.com**
 
 ---
 
@@ -84,7 +80,7 @@ Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python
 - Observabilidade e monitoramento
 - Processamento de dados e ETL
 - Sistemas financeiros e pagamentos
-- Segurança e autenticação (2FA, JWT)
+- Segurança e autenticação (JWT, OAuth2, 2FA)
 - Machine Learning aplicado
 
 ---
@@ -158,20 +154,6 @@ Plataforma colaborativa com Kanban, Scrum, workflows customizados e automações
 Sistema avançado de tracing distribuído, coleta de métricas e agregação de logs.
 
 **Stack:** Go • Rust • Java • Python • OpenTelemetry • ClickHouse
-
----
-
-# 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabebuenu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabebuenu&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabebuenu&theme=tokyonight"/>
-</p>
 
 ---
 
