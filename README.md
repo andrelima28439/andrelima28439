@@ -1,21 +1,19 @@
-```md id="c7w9mz"
-<h1 align="center">Olá 👋, eu sou o André Lima</h1>
+```md id="1y0kpl"
+# Olá 👋, eu sou o André Lima
 
-<h3 align="center">
-Desenvolvedor Back-end & Cloud Engineer • APIs • Microsserviços • Arquitetura Distribuída
-</h3>
+### Desenvolvedor Back-end & Cloud Engineer
+
+Desenvolvedor focado em APIs escaláveis, microsserviços, cloud computing e arquitetura distribuída.
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Back-end com foco em arquitetura de sistemas distribuídos, APIs escaláveis, microsserviços e soluções cloud.
-
-Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python, Java Spring Boot e bancos relacionais e NoSQL, além de integração entre sistemas, mensageria, observabilidade e pipelines de dados.
-
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **Unimar**.
-
-📫 Contato: **seuemail@email.com**
+- 🎓 Formado em **Sistemas de Informação** pela **UNIVEM**
+- 💻 Especializado em desenvolvimento Back-end
+- ☁️ Experiência com cloud e DevOps
+- 📚 Sempre estudando arquitetura de software e sistemas distribuídos
+- 📫 Contato: **seuemail@email.com**
 
 ---
 
@@ -23,7 +21,7 @@ Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python
 
 ## 💻 Back-end
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,22 +29,18 @@ Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
----
-
 ## 🌐 Front-end
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
----
-
 ## 🗄️ Banco de Dados
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -55,11 +49,9 @@ Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
 </p>
 
----
-
 ## ☁️ Cloud & DevOps
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -78,9 +70,9 @@ Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python
 - Mensageria com RabbitMQ e Kafka
 - CI/CD e DevOps
 - Observabilidade e monitoramento
-- Processamento de dados e ETL
+- ETL e processamento de dados
 - Sistemas financeiros e pagamentos
-- Segurança e autenticação (JWT, OAuth2, 2FA)
+- Segurança e autenticação
 - Machine Learning aplicado
 
 ---
@@ -88,80 +80,80 @@ Tenho experiência no desenvolvimento de aplicações utilizando Node.js, Python
 # 📌 Projetos em Destaque
 
 ## 🛒 E-Commerce com Microsserviços
-Sistema completo utilizando arquitetura distribuída com Node.js, RabbitMQ, Redis, Stripe e microsserviços independentes.
+Arquitetura distribuída com Node.js, RabbitMQ, Redis e Stripe.
 
-**Stack:** Next.js • Node.js • PostgreSQL • MongoDB • Redis • RabbitMQ • Stripe
+**Stack:** Next.js • Node.js • PostgreSQL • MongoDB • Redis • RabbitMQ
 
 ---
 
 ## 📊 Plataforma BI & Analytics
-Dashboard analítico com ETL, agregações em tempo real e visualização avançada de dados.
+Dashboards analíticos, ETL e visualização avançada de dados.
 
 **Stack:** React • FastAPI • PostgreSQL • Metabase • Pandas
 
 ---
 
 ## 🏥 Sistema Hospitalar
-Sistema de gestão hospitalar com prontuário eletrônico, agendamentos e controle de acesso.
+Gestão hospitalar com prontuário eletrônico e agendamentos.
 
-**Stack:** React • Spring Boot • PostgreSQL • Quartz Scheduler
+**Stack:** React • Spring Boot • PostgreSQL
 
 ---
 
 ## 💳 Sistema de Pagamentos Distribuído
-Gateway de pagamentos com processamento distribuído, antifraude com ML e arquitetura orientada a eventos.
+Gateway de pagamentos com antifraude e arquitetura orientada a eventos.
 
-**Stack:** Node.js • Spring Boot • Kubernetes • RabbitMQ • Python ML
+**Stack:** Node.js • Spring Boot • Kubernetes • RabbitMQ
 
 ---
 
 ## 🏦 Fintech Platform
-Plataforma financeira com PIX, transferências, cartões virtuais, autenticação 2FA e ledger financeiro.
+PIX, transferências, autenticação 2FA e ledger financeiro.
 
 **Stack:** Node.js • PostgreSQL • Redis • Stripe
 
 ---
 
 ## 🏠 Plataforma Imobiliária
-Sistema imobiliário com busca geoespacial, mapas interativos, chat em tempo real e tour virtual.
+Busca geoespacial, mapas interativos e chat em tempo real.
 
 **Stack:** Next.js • Node.js • PostGIS • Socket.io
 
 ---
 
 ## 🎥 Plataforma de Streaming
-Sistema de streaming com upload chunked, transcoding via FFmpeg e analytics em tempo real.
+Streaming adaptativo com FFmpeg e analytics em tempo real.
 
-**Stack:** React • Node.js • Python • FFmpeg • Cloudflare R2
+**Stack:** React • Node.js • Python • FFmpeg
 
 ---
 
 ## ⚙️ DevOps Dashboard
-Painel de observabilidade e gerenciamento de infraestrutura cloud com Terraform e Docker.
+Monitoramento, Terraform e gerenciamento cloud.
 
-**Stack:** React • FastAPI • Terraform • AWS • Grafana
+**Stack:** React • FastAPI • Terraform • AWS
 
 ---
 
 ## 📋 Gerenciamento de Projetos (JIRA-like)
-Plataforma colaborativa com Kanban, Scrum, workflows customizados e automações.
+Kanban, Scrum, workflows e automações.
 
-**Stack:** React • Node.js • Java • Go • Python • Kafka
+**Stack:** React • Node.js • Java • Go • Python
 
 ---
 
 ## 📡 Plataforma de Observabilidade (APM)
-Sistema avançado de tracing distribuído, coleta de métricas e agregação de logs.
+Distributed tracing, métricas e agregação de logs.
 
-**Stack:** Go • Rust • Java • Python • OpenTelemetry • ClickHouse
+**Stack:** Go • Rust • Java • Python • OpenTelemetry
 
 ---
 
 # 🤝 Conecte-se comigo
 
-<p align="left">
-<a href="https://www.linkedin.com/in/andre-lima-8429b6402/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+<a href="https://www.linkedin.com/in/andre-lima-8429b6402/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 ```
