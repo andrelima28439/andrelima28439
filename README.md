@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o André Lima
+# Olá 👋, eu sou o Andre Lima
 
 ### Desenvolvedor Back-end & Cloud Engineer
 
@@ -12,7 +12,6 @@ Desenvolvedor focado em APIs escaláveis, microsserviços, cloud computing e arq
 - 💻 Especializado em desenvolvimento Back-end
 - ☁️ Experiência com cloud e DevOps
 - 📚 Sempre estudando arquitetura de software e sistemas distribuídos
-- 📫 Contato: **seuemail@email.com**
 
 ---
 
